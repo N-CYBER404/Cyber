@@ -159,7 +159,7 @@ def menu():
     print("")
     print("")
     os.system('echo -e "-----------------------------------------------"| lolcat')
-        print(logo)
+    print(logo)
 	print("email   : "+n)
 	print("key      : "+f)
 	print("[✓] Name : "+name)
@@ -175,8 +175,8 @@ def menu():
 	print ("[7] Follow Me On Facebook")
 	print ("[8] Log Out")
 	print ("[0] Exit            ")
-        print (50*"-")
-        os.system('echo -e "-----------------------------------------------"| lolcat')
+	os.system('echo -e "-----------------------------------------------"| lolcat')
+    print (50*"-")
 	action()
 
 
