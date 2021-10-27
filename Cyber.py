@@ -160,7 +160,7 @@ def menu():
     print("")
     os.system('echo -e "-----------------------------------------------"| lolcat')
     print(logo)
-	print("email   : "+n)
+	print("email   : +n")
 	print("key      : "+f)
 	print("[✓] Name : "+name)
 	print("[✓] ID   : "+id)
